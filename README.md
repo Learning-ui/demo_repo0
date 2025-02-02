@@ -1,4 +1,4 @@
 # demo_repo0
-learning 
+Learning 
 <br>
 (try = 0)
